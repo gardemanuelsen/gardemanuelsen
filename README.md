@@ -9,6 +9,9 @@
 	</a>
 </div>
 
+<br />
+
+
 **`Frontend Developer`**
 
 Hello, I am a Frontend Developer with a strong passion for creating visually appealing and user-friendly web pages and applications. I hold a Bachelor's degree in Frontend and App Development, as well as a Bachelor's degree in Marketing. This combination provides me with a broader perspective, enabling me to craft effective solutions that meet both user and business needs.
