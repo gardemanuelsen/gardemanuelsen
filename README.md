@@ -38,7 +38,7 @@ Hello, I am a Frontend Developer with a strong passion for creating visually app
 
 ### Helt Opplagt
 
-The mission was to develop a digital solution for users to register their daily lunches, enabling Helt Opplagt to accurately invoice their customers based on the number of lunches recorded. The solution was a mobile app for daily registrations and an administrative dashboard that facilitates Excel sheet generation and general management of the database.
+The mission was to develop a digital solution for users to register their daily lunches, giving Helt Opplagt a tool to accurately invoice their customers based on the number of lunches recorded. The solution was a mobile app for daily registrations and an administrative dashboard with Excel sheet generation and general management of the database.
 
 Helt Opplagt is a B2B provider of ongoing subscription-based services focused on health and well-being in the workplace. They offer services such as cafeteria management, daily fruit delivery, and cleaning to over 50,000 employees in and around Oslo
 
