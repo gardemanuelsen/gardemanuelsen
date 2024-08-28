@@ -1,5 +1,14 @@
 # 🏄‍♂️ Gard Aleksander Emanuelsen
 
+<div>
+	<a href="https://www.linkedin.com/in/gardemanuelsen/" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link" />
+	</a>
+	<a href="mailto:gard.emanuelsen1@gmail.com" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail address" />
+	</a>
+</div>
+
 **`Frontend Developer`**
 
 Hello, I am a Frontend Developer with a strong passion for creating visually appealing and user-friendly web pages and applications. I hold a Bachelor's degree in Frontend and App Development, as well as a Bachelor's degree in Marketing. This combination provides me with a broader perspective, enabling me to craft effective solutions that meet both user and business needs.
